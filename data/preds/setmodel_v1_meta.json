@@ -1,0 +1,141 @@
+{
+  "name": "setmodel_v1",
+  "ks_oof": 0.39399078137728855,
+  "ks_by_seed": {
+    "42": 0.39029930625895015,
+    "7": 0.3867553132738958,
+    "2024": 0.37660144538924206
+  },
+  "n_features": 10,
+  "features": [
+    "lp",
+    "log_unit",
+    "log_qty",
+    "log_order_total",
+    "log_items_in_order",
+    "age_y",
+    "log_age",
+    "cancelled",
+    "cat",
+    "pay"
+  ],
+  "params": {
+    "kind": "set_model"
+  },
+  "seeds": [
+    42,
+    7,
+    2024
+  ],
+  "mean_best_iter": 7.2,
+  "kind": "set_model",
+  "feature_version": "item_ecommerce",
+  "minutes": 26.2,
+  "fold_table": [
+    {
+      "seed": 42,
+      "fold": 1,
+      "ks": 0.4045290216836819,
+      "epoch_terbaik": 11,
+      "detik": 146.3
+    },
+    {
+      "seed": 42,
+      "fold": 2,
+      "ks": 0.3876808196311693,
+      "epoch_terbaik": 6,
+      "detik": 97.0
+    },
+    {
+      "seed": 42,
+      "fold": 3,
+      "ks": 0.4170737827094452,
+      "epoch_terbaik": 9,
+      "detik": 125.6
+    },
+    {
+      "seed": 42,
+      "fold": 4,
+      "ks": 0.38250128333297695,
+      "epoch_terbaik": 5,
+      "detik": 86.1
+    },
+    {
+      "seed": 42,
+      "fold": 5,
+      "ks": 0.38593486179029685,
+      "epoch_terbaik": 7,
+      "detik": 104.9
+    },
+    {
+      "seed": 7,
+      "fold": 1,
+      "ks": 0.39281542737956304,
+      "epoch_terbaik": 10,
+      "detik": 133.8
+    },
+    {
+      "seed": 7,
+      "fold": 2,
+      "ks": 0.3998695837370798,
+      "epoch_terbaik": 6,
+      "detik": 95.1
+    },
+    {
+      "seed": 7,
+      "fold": 3,
+      "ks": 0.39687669658858166,
+      "epoch_terbaik": 7,
+      "detik": 107.0
+    },
+    {
+      "seed": 7,
+      "fold": 4,
+      "ks": 0.3860743639527108,
+      "epoch_terbaik": 8,
+      "detik": 115.8
+    },
+    {
+      "seed": 7,
+      "fold": 5,
+      "ks": 0.3840701394274135,
+      "epoch_terbaik": 7,
+      "detik": 72.3
+    },
+    {
+      "seed": 2024,
+      "fold": 1,
+      "ks": 0.39243673500390147,
+      "epoch_terbaik": 9,
+      "detik": 117.7
+    },
+    {
+      "seed": 2024,
+      "fold": 2,
+      "ks": 0.3894123698668868,
+      "epoch_terbaik": 5,
+      "detik": 86.5
+    },
+    {
+      "seed": 2024,
+      "fold": 3,
+      "ks": 0.407394996886766,
+      "epoch_terbaik": 4,
+      "detik": 75.9
+    },
+    {
+      "seed": 2024,
+      "fold": 4,
+      "ks": 0.3924215819666902,
+      "epoch_terbaik": 8,
+      "detik": 111.1
+    },
+    {
+      "seed": 2024,
+      "fold": 5,
+      "ks": 0.4012159547362853,
+      "epoch_terbaik": 6,
+      "detik": 97.8
+    }
+  ]
+}

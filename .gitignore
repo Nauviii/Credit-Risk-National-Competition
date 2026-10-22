@@ -1,0 +1,14 @@
+
+# Virtual environments
+.venv/
+venv/
+
+# Large datasets
+/ecommerce_transactions_hasil_sampling*
+/data/raw/**
+/data/parquet/**
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

@@ -1,0 +1,29 @@
+1. Build diagram biar paham hubungan datanya
+- Pahami data train dahulu
+- Pahami data test
+- Bandingkan
+
+2. Research and cari sumber semacam seperti Kaggle <setelah memahami full dataset dan konteksnya>
+2. Consider graph 
+3. Consider hyperparameter tuning karena distribusi datanya dan datanya hampir mirip
+
+Hari peminjaman pada waktu yang sama/tingkat peminjaman dalam waktu tertentu.
+
+Redundansi antar feature? penalty L1/L2
+
+Bandingan pertanyaan dan ketentuan yang ada terkait credit risk, kemudian bandingkan dengan data yang dimiliki
+
+Setelah membuat baseline dan lainnya, bisa coba implementasikan ide dari home credit di kaggle grandmaster
+
+
+consider pca, tsne dll
+
+Neural network approach: MPL, CNN, RNN, LSTM, EMBEDDING, dll (must have EDA First)
+
+Transofmer tabular, tabfm, kumo
+
+Pseudo labeling or soft pseudo labeling
+
+feature selection and dimmensional reduction
+
+clustering for feature enigneering
