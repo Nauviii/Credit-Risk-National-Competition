@@ -27,3 +27,5 @@ Pseudo labeling or soft pseudo labeling
 feature selection and dimmensional reduction
 
 clustering for feature enigneering
+
+https://www.sciencedirect.com/science/article/abs/pii/S0167947318302494?utm_source=chatgpt.com
